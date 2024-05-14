@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+select {
+  margin: 5px;
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+label {
+  margin: 5px;
+  padding: 10px 15px;
+}
